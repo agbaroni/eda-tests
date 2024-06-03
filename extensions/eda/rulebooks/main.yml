@@ -1,4 +1,5 @@
 ---
-- hosts: all
+- name: Test1
+  hosts: all
   sources: []
   rules: []
