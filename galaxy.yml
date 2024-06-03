@@ -1,0 +1,6 @@
+namespace: agbaroni
+name: tests
+version: 1.0.0
+readme: README.md
+authors:
+  - 'Alessio G. Baroni'
